@@ -1,4 +1,4 @@
 Welcome to my project
 
-Author:Thosmes
+Author:Thosmes huber
 Twitter:Twitter@handle
